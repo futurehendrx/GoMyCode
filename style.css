@@ -6,15 +6,18 @@ word-spacing: 19px
 letter-spacing: 18px;
 text-align:center
 ;}
+nav{display: inline;}
 h1
 {
-    font: size 136px;
+    font:'Roboto';font-size: 22px; size 136px;
 color: black;
 background-color: aliceblue;
 border: 9px red solid;
-line word-spacing: display: width: height: 9px ;;;
 border-radius: 90px;}
- h1:hover {color: aqua;
-letter-spacing :30px;
-line-height: 10px;
-}
+.container
+
+{color: black;
+    font-size: 90px;
+word-spacing: 19px;
+background-color: red
+;}
